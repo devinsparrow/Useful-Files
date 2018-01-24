@@ -1,0 +1,148 @@
+Spacers
+
+<div style="height:10px; line-height:10px; mso-line-height-rule:exactly;">&nbsp;</div>
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td style="height: 20px; font-size: 1px; line-height: 1px; mso-line-height-rule: exactly;" height="20">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+
+------------------------------------------------------------------------------------------
+
+Hiding Content
+
+<!--[if !mso]><!--><!--<![endif]-->
+
+<table style="display:none;"><tr><td style="display:none;">&nbsp;</td></tr></table>
+
+------------------------------------------------------------------------------------------
+
+Useful Special Characters
+
+Outlook-respected checkmark character html entity code:
+&#x2713;
+&#10003;
+
+Outlook-respected ring character html entity code:
+&#x2218;
+
+Zero-width joiner - Use to keep characters together and prevent Android from hyperlinking addresses/dates (e.g. J&zwj;une 18)
+&zwj;
+
+Non-breaking hyphen html entity code:
+&#8209;
+
+✓
+
+------------------------------------------------------------------------------------------
+
+Control Text Wrapping in Mobile
+
+<table cellpadding="0" cellspacing="0" width="598" class="width292">
+    <tr>
+        <td width="598" class="width292" align="center" valign="top">
+            <div style="font-size:14px; font-family:Arial, Helvetica, sans-serif; color:#808080; line-height:16px; padding-bottom:16px;">
+                The best way to beat the morning rush? <br class="hide" style="line-height:16px;" /><span class="block" style="line-height:16px;">A great dress that's so easy to </span>throw on and&nbsp;go.
+            </div>
+        </td>
+    </tr>
+</table>
+
+
+Control CTA Text Wrapping (span trick above will cause color issues in Outlook once clicked)
+
+<table class="Mobile_CTA" style="width: 250px;" border="0" cellspacing="0" cellpadding="0" width="250">
+    <tr>
+        <td class="Mobile_CTA" style="width: 250px; padding-top: 0px;" width="250" align="center">
+            <table style="background: #002050;" border="0" cellspacing="0" cellpadding="0" bgcolor="#002050">
+                <tr>
+                    <td style="padding: 3px 0; background: #002050; line-height: 1px; mso-line-height-rule: exactly;" colspan="5" width="1" bgcolor="#002050">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="background: #002050;" width="15" bgcolor="#002050">&nbsp;</td>
+                    <td style="direction: ltr; background: #002050; color: #ffffff; font-family: 'Segoe UI',Arial,sans-serif; font-size: 17px; line-height: 22px; padding: 0px 0;" align="left" valign="middle" bgcolor="#002050"><a style="color: #ffffff; text-decoration: none;" title="Go to Power Pages" href="http://emails.microsoft.com/dc/l32Sk1xwVuPNSFJG6h1-jUtQ_KkvQlTSc7MivaP2N9fFjc5QPD4yDEY3Tf6LT5QjqBfhNA9CvC0P15nkjo9xY4DCVhKsliHckzKoQGYHNWNcc0HLdg7VeTxzhsn6_-Na/DGF0c030EQ000w0wqW000E0">
+                        Go to <br class="show" style="line-height: 22px;" />Power Pages
+                    </a></td>
+                    <td style="background: #002050;" width="10" bgcolor="#002050">&nbsp;</td>
+                    <td style="direction: ltr; background: #002050; color: #ffffff; padding: 0px 0; width: 22px;" width="22" align="center" valign="middle" bgcolor="#002050"><a style="color: #ffffff; text-decoration: none;" title="Go to Power Pages" href="http://emails.microsoft.com/dc/l32Sk1xwVuPNSFJG6h1-jUtQ_KkvQlTSc7MivaP2N9fFjc5QPD4yDEY3Tf6LT5QjqBfhNA9CvC0P15nkjo9xY4DCVhKsliHckzKoQGYHNWNcc0HLdg7VeTxzhsn6_-Na/DGF0c030EQ000w0wqW000E0"> <img style="vertical-align: middle;" src="https://info.microsoft.com/rs/157-GQE-382/images/33333_Azure_ArrowCTAltr.png" border="0" alt="Go to Power Pages" width="20" height="20"> </a></td>
+                    <td style="background: #002050;" width="15" bgcolor="#002050">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="padding: 3px 0; background: #002050; line-height: 1px; mso-line-height-rule: exactly;" colspan="5" width="1" bgcolor="#002050">&nbsp;</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+------------------------------------------------------------------------------------------
+
+Hide Desktop and Show Mobile-Only CSS
+
+<!-- HIDDEN CONTENT IN DESKTOP - SHOW IN MOBILE -->
+    <!--[if !mso]><!-->
+    <div class="mobile-only" style="display:none; float:left; overflow:hidden; width:0; max-height:0; line-height:0;">
+        <!-- INSERT MOBILE CONTENT -->        
+    </div>
+    <!--<![endif]-->
+<!-- END HIDDEN CONTENT IN DESKTOP - SHOW IN MOBILE -->
+
+------------------------------------------------------------------------------------------
+
+Universal Dot Notation CSS (makes Gmail app responsive)
+
+@media only screen and (max-width: 480px) {
+        .wrapper {
+         width:320px!important;
+        }
+
+        /* Hide from mobile */
+        .mobile-hidden { display:none !important; }
+
+        /* Custom */
+        .alignleft { text-align:left !important;}
+
+        .photo {display:block !important; width:100% !important; height: auto !important;}
+
+        .block { width:100% !important; display:block !important; }
+
+        .blockBanner { width:100% !important; height: auto !important; display:block !important; padding: 20px 0 0 0 !important; }
+
+        .blockBanner2 { width:100% !important; height: auto !important; display:block !important; padding: 0px 0 0 0 !important; }
+
+        .addr_txt { font-size:10px !important; }
+
+        .mobileBody { width: 288px !important;}
+
+        .mobileBody_padding { padding: 0px 0px 20px 0px !important; width: 288px !important;}
+
+        .Mobile_Gutter { width: 15px !important; height: auto !important; }
+
+        .Mobile_CTA { width: 258px !important;}
+
+        .Mobile_CTA-Banner { width: 258px !important; text-align: left !important; }
+
+        .MExpand {width: 255px !important; height: 120px !important;}
+
+        .MExpand2 {width: 255px !important; height: 134px !important;}
+
+        .BodyBlock { width:94% !important; display:block !important; height: auto !important;}
+
+        .MHeight { height: auto !important; }
+
+        .mobile-only { display:block !important; margin:0 !important; padding:0 !important; overflow:visible !important; float: none !important; width:auto !important; max-height:inherit !important; height:auto !important; position: relative !important; top: 0px !important;}
+    }
+
+------------------------------------------------------------------------------------------
+
+http://stackoverflow.com/questions/15132411/how-to-stop-caching-of-images-in-an-email
+
+------------------------------------------------------------------------------------------
+
+Clear out unwanted text pulling in from the auto-preview:
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+
+------------------------------------------------------------------------------------------
