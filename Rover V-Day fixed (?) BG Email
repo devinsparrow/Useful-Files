@@ -1,0 +1,686 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html style="opacity: 1;" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Rover.com</title>
+   <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+   <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+   <meta content="width=device-width, initial-scale=1.0 " name="viewport" />
+   <meta content="telephone=no" name="format-detection" /><!--[if !mso]><!-->
+   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css" /><!--<![endif]-->
+   <style type="text/css">/* Outlook Background Image Fix */
+      v:* {
+        behavior: url(#default#VML);
+        display: block;
+      }
+      body {
+        margin: 0 !important;
+        padding: 0 !important;
+        -webkit-text-size-adjust: 100% !important;
+        -ms-text-size-adjust: 100% !important;
+        -webkit-font-smoothing: antialiased !important;
+      }
+      img {
+        border: 0 !important;
+        outline: none !important;
+      }
+      p{
+        margin:0px !important;
+        padding:0px !important;
+      }
+      table {
+        border-collapse: collapse;
+        mso-table-lspace: 0px;
+        mso-table-rspace: 0px;
+      }
+      td, a, span  {
+        border-collapse: collapse;
+        mso-line-height-rule: exactly;
+      }
+      .ExternalClass * {
+        line-height: 100%;
+      }
+      .em_gray1 a {
+        color:#a8a8a8;
+        text-decoration:none;
+      }
+      .em_gray2 a {
+        color:#a8a8a8;
+        text-decoration:underline;
+      }
+      .em_gray3 a {
+        color:#b6b6b6;
+        text-decoration:underline;
+      }
+      .em_header a {
+        color:#797979;
+        text-decoration:none;
+      }
+      .center table{
+        width:100% !important;
+      }
+    </style>
+    <style type="text/css">
+      /*Stylesheed for the devices width between 0px to 480px*/
+      @media only screen and (max-width:480px) {
+        .em_main_table {
+          width: 100% !important;
+        }
+        .em_wrapper {
+          width: 100% !important;
+        }
+        .em_aside {
+          padding:0px 10px !important;
+          /*Update the ualves as required*/
+        }
+        .em_hide {
+          display:none !important;
+        }
+        .em_full_img {
+          width:100% !important;
+          height:auto !important;
+          max-width:100% !important;
+        }
+        .em_center {
+          text-align:center !important;
+        }
+        .em_top {
+          padding-top:28px !important;
+        }
+        .display_mobile {
+          display: block !important;
+          height: auto !important;
+        }
+        .em_hide_desktop {
+          display: table !important;
+          float: none !important;
+          width: 100% !important;
+          overflow: visible !important;
+          height: auto !important;
+        }
+        .em_w2 {
+          width:10px !important;
+        }
+        .em_w3 {
+          width:25px !important;
+        }
+        .em_text1 {
+          font-size:13px !important;
+          line-height:17px !important;
+        }
+        .em_text2 {
+          font-size:24px !important;
+        }
+        .em_full_img1 {
+          width:100% !important;
+          height:11px !important;
+          max-width:100% !important;
+        }
+        .w320 {
+          width: 320px !important;
+        }
+      }
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width:420px) {
+        .em_hide1 {
+          display: none !important;
+        }
+        .em_hide_desktop {
+          display: table !important;
+          float: none !important;
+          width: 100% !important;
+          overflow: visible !important;
+          height: auto !important;
+        }
+        .em_hide_desktop1 {
+          display: table !important;
+          float: none !important;
+          width: 100% !important;
+          overflow: visible !important;
+          height: auto !important;
+        }
+        .em_h24 {
+          height: 24px !important;
+        }
+        .em_h16 {
+          height: 16px !important;
+        }
+        .em_h40 {
+          height: 40px !important;
+        }
+        .em_h30 {
+          height: 30px !important;
+        }
+        .em_center {
+          text-align:center !important;
+        }
+        .w320 {
+          width: 320px !important;
+        }
+      }
+   </style>
+   <style type="text/css">
+   .preheader 
+      {
+        display: none !important;
+      }
+   </style>
+</head>
+<body style="margin: 0px; padding: 0px;">
+<div class="preheader" style="font-size: 1px; display: none !important;">You're the best pet parent a dog could ask for!
+</div>
+<!--Full width table start-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+   <tbody>
+      <tr>
+         <td align="center" valign="top">
+         <table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="table-layout:fixed;" width="640">
+            <tbody>
+               <tr>
+                  <td valign="top">
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                     <tbody>
+                        <tr>
+                           <td class="em_hide" height="1" style="line-height:0px; font-size:0px;"><img border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block; width:640px; min-width:640px;" width="640" /></td>
+                        </tr>
+                        <!--=== PRE-HEADER SECTION === -->
+                        <tr>
+                           <td>
+                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tbody>
+                                 <tr>
+                                    <td height="15" style="font-size:1px; line-height:1px;"></td>
+                                 </tr>
+                                 <tr>
+                                    <td align="right" class="em_center" style="font-family:'Avenir', 'Open sans', Arial, sans-serif; font-size:10px; color:#979797; text-align:right; line-height:16px; font-weight:500"><a class="em_gray2" href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYWDAT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:underline;color:#a8a8a8;" target="_blank">Someone special wants to be your valentine!</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="em_gray2" href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYWDCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:underline;color:#a8a8a8;" target="_blank">view email with images</a></td>
+                                 </tr>
+                                 <tr>
+                                    <td height="15" style="font-size:1px; line-height:1px;"></td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           </td>
+                        </tr>
+                        <!--=== //PRE-HEADER SECTION === --><!--=== HEADER SECTION === -->
+                        <tr>
+                           <td>
+                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tbody>
+                                 <tr>
+                                    <td align="left">
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" width="135">
+                                       <tbody>
+                                          <tr>
+                                             <td align="center"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYRRT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="Rover" border="0" height="50" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/135x50_rover_logo.png" style="display:block;max-width:135px;" width="135" /></a></td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    </td>
+                                    <td class="em_hide"></td>
+                                    <td class="em_hide" valign="top" width="420">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="420">
+                                       <tbody>
+                                          <tr>
+                                             <td height="14" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="right">
+                                             <table align="right" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td align="left" height="14" style="line-height:0px;font-size:0px;" valign="middle" width="18"><img alt="" border="0" height="13" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_search.png" style="display:block;max-width:13px;" width="13" /></td>
+                                                      <td style="font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:14px; color:#797979; text-align:left; line-height:14px;font-weight:600;;" valign="top" width="115"><a class="em_header" href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYRTT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none;color:#666666;" target="_blank">Search Sitters</a></td>
+                                                      <td align="left" height="14" style="line-height:0px;font-size:0px;" valign="middle" width="20"><img alt="" border="0" height="13" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_becomesitter.png" style="display:block;max-width:13px;" width="13" /></td>
+                                                      <td style="font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:14px; color:#797979; text-align:left; line-height:14px;font-weight:600;;" valign="top" width="121"><a class="em_header" href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYRWT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none;color:#666666;" target="_blank">Become a Sitter</a></td>
+                                                      <td align="left" height="15" style="line-height:0px;font-size:0px;" valign="middle" width="20"><img alt="" border="0" height="14" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_give20.png" style="display:block;max-width:16px;" width="14" /></td>
+                                                      <td align="left" style="font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:14px; color:#797979; text-align:left; line-height:14px;font-weight:600;;" valign="top" width="122"><a class="em_header" href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYRAT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none;color:#666666;" target="_blank">Give $20, Get $20</a></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           </td>
+                        </tr>
+                        <!--=== //HEADER SECTION === -->
+                        <tr>
+                           <td height="20" style="font-size:1px; line-height:1px;"></td>
+                        </tr>
+                        <!--=== BODY SECTION === -->
+                        <tr>
+                           <td>
+                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tbody>
+                                 <tr>
+                                    <td valign="top">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                       <tbody>
+                                          <tr>
+                                             <td>
+                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td bgcolor="#cacaca" height="1" style="line-height:0px;font-size:0px;"><img alt="" border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;" width="1" /></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td valign="top">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                       <tbody>
+                                          <tr>
+                                             <td bgcolor="#bdbdbd" width="1"></td>
+                                             <td valign="top">
+                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td class="em_w2" width="19"></td>
+                                                      <td valign="top">
+                                                      <table border="0" cellpadding="0" cellspacing="0" width="100%"><!--=== SECTION 1 === --><!-- Spacer -->
+                                                         <tbody>
+                                                            <tr>
+                                                               <td height="20" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                            <!-- END Spacer --><!-- Hero BG Image -->
+                                                            <tr>
+                                                               <td><!-- BG Desktop -->
+                                                               <div class="em_hide">
+                                                               <table cellpadding="0" cellspacing="0" class="em_hide">
+                                                                  <tbody>
+                                                                     <tr>
+                                                                        <td align="center" background="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/600x600_bg-hero.png" bgcolor="#F7BAA1" class="em_full_img" height="600" style="background-image:url(https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/600x600_bg-hero.png); background-size:600px 600px;" valign="top" width="600"><!--[if gte mso 9]>
+<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height:600px;">
+<v:fill type="frame" color="#ffffff" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/600x600_bg-hero.png" />
+<v:textbox inset="0,0,0,0">
+<table cellpadding="0"cellspacing="0"><tr><td width="600" height="600" align="center" valign="top">
+<![endif]-->
+                                                                        <table cellpadding="0" cellspacing="0" border="0" align="center">
+                                                                          <tbody><tr>
+                                                                            <td width="600" height="410" align="center" valign="top"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYWCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank" border="0" src="https://ci4.googleusercontent.com/proxy/ebnOZX49ZC_6yxCpZFh6vSRi3iOsYVkZAIA7eNh_tCoPVg10rOUg452DuJ5fd0wWlyGBglqzr1UyV7HpnavGMw1UIGXOfmHGBYWpDthAgemLDQwTnw6TwlUUvq3EVTgSQwSN0oCMxApMBlhcSVVnqN3xgNJRohMWFVohIyLwP51mmaHAwtnCoSYnt73pDyrzOa3IBzIMR289=s0-d-e1-ft#https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;width:600px;height:410px;font-family:'Avenir','Open Sans',Arial,sans-serif;font-size:32px;color:#ffffff;font-weight:600" width="600" height="410"></a></td>
+                                                                          </tr>
+                                                                        </tbody></table>
+
+                                                                        <table cellpadding="0" cellspacing="0" border="0" align="center">
+                                                                          <tbody><tr>
+                                                                            <td align="center" valign="top" style="font-family:'Avenir','Open Sans',Arial,sans-serif;font-size:32px;line-height:44px;color:#ffffff;font-weight:300">
+                                                                              Angela
+                                                                              <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="height:43px;font-size:1px;line-height:1px" height="43">&nbsp;</td></tr></tbody></table>
+                                                                              Leonardo
+                                                                            </td>
+                                                                          </tr>
+                                                                        </tbody></table>
+                                                                        <!--[if gte mso 9]>
+</td></tr></table>
+</v:textbox>
+</v:rect>
+<![endif]--></td>
+                                                                     </tr>
+                                                                  </tbody>
+                                                               </table>
+                                                               </div>
+                                                               <!-- /BG Desktop --><!-- BG Mobile --><!--[if !mso]><!-->
+
+                                                               <div class="em_hide_desktop" style="display:none; float:left; overflow:hidden; width:0; max-height:0; line-height:0;">
+                                                               <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                                                  <tbody>
+                                                                     <tr>
+                                                                        <td align="center" background="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/320x370_bg-hero.png" bgcolor="#F7BAA1" height="370" style="background-image:url(https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/320x370_bg-hero.png); background-size:320px 370px;" valign="top" width="320">
+                                                                        <div>
+                                                                        <div><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYWCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="Be my valentine?" border="0" height="230" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block; font-family:'Avenir','Open Sans', Arial, sans-serif;font-size:32px;line-height:44px;color:#ffffff;font-weight:600;" width="320" /></a>
+                                                                        </div>
+
+                                                                        <div style="font-family:'Avenir','Open Sans', Arial, sans-serif;font-size:18px;line-height:26px;color:#ffffff;font-weight:300;">Angela
+                                                                        </div>
+
+                                                                        <div style="height:28px; line-height:28px; mso-line-height-rule:exactly;">
+                                                                        </div>
+
+                                                                        <div style="font-family:'Avenir','Open Sans', Arial, sans-serif;font-size:18px;line-height:26px;color:#ffffff;font-weight:300;">Leonardo
+                                                                        </div>
+                                                                        </div>
+                                                                        </td>
+                                                                     </tr>
+                                                                  </tbody>
+                                                               </table>
+                                                               </div>
+                                                               <!--<![endif]--><!-- /BG Mobile --></td>
+                                                            </tr>
+                                                            <!-- /Hero BG Image -->
+                                                            <tr>
+                                                               <td height="30" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td align="center" style="font-family:'Avenir','Open Sans', Arial, sans-serif;font-size:16px;line-height:24px;color:#555555;font-weight:300;">You're the best pet parent a dog could ask for! Thanks for all the yummy treats, long walks, and good times with my favorite Rover&nbsp;sitter.</td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td height="20" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td align="center" class="em_padding" style="font-family:'Avenir', 'Open sans', Arial, sans-serif;font-size:16px;line-height:24px;color:#555555;font-weight:600" valign="top">Will you be my valentine?<br />
+                                                               xoxo, Leonardo</td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td height="20" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td align="center" style="font-family:'Avenir','Open Sans', Arial, sans-serif;font-size:16px;line-height:24px;color:#555555;font-weight:300;">P.S. Let&rsquo;s make Valentine's Day treats with these sweet <span style="white-space: nowrap;">dog-friendly recipes:</span></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td height="20" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                            <!-- Button -->
+                                                            <tr>
+                                                               <td align="center"><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYRCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank" style="height:45px;v-text-anchor:middle;width:160px;" arcsize="10%" stroke="f" fillcolor="#00BD70">
+<w:anchorlock/>
+<center>
+<![endif]--><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYWCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="background-color:#00BD70;border-radius:4px;color:#ffffff;display:inline-block;font-family:'Avenir', 'Open sans', Arial, sans-serif;font-size:14px;font-weight:600;line-height:45px;text-align:center;text-decoration:none;width:160px;-webkit-text-size-adjust:none;" target="_blank">Read more</a> <!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]--></td>
+                                                            </tr>
+                                                            <!-- END Button -->
+                                                            <tr>
+                                                               <td height="30" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td bgcolor="#cacaca" height="1" style="line-height:0px;font-size:0px;"><img alt="" border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;" width="1" /></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td height="30" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td>
+                                                               <table align="center" bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" valign="top">
+                                                                  <tbody>
+                                                                     <tr>
+                                                                        <td class="em_hide" width="292"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSRT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img border="0" height="200" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/292x200_search.jpg" style="display:block;" width="292" /></a></td>
+                                                                        <td width="20"></td>
+                                                                        <td bgcolor="#F2F2F2" class="w320 em_center" width="248" height="200" valign="top" style="font-family:'Avenir','Open Sans',Arial,sans-serif;font-size:16px;line-height:24px;color:#555555;font-weight:300">
+                                                                        <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="height:40px;font-size:1px;line-height:1px" height="40">&nbsp;</td></tr></tbody></table>
+
+                                                                        <span style="font-weight:600">Happy dog, happy travels</span>
+
+                                                                        <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="height:12px;font-size:1px;line-height:1px" height="12">&nbsp;</td></tr></tbody></table>
+
+                                                                        Book a sitter for the upcoming <span style="white-space:nowrap">three-day weekend.</span>
+
+                                                                        <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="height:12px;font-size:1px;line-height:1px" height="12">&nbsp;</td></tr></tbody></table>
+
+                                                                        <a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSRT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration: none; color: #00AD66;" target="_blank">› Search sitters</a>
+                                                                        </td>
+                                                                     </tr>
+                                                                  </tbody>
+                                                               </table>
+                                                               </td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td height="30" style="line-height:0px;font-size:0px;"></td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                      </td>
+                                                      <td class="em_w2" width="19"></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                             <td bgcolor="#cacaca" width="1"></td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td valign="top">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                       <tbody>
+                                          <tr>
+                                             <td>
+                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td bgcolor="#bdbdbd" height="1" style="line-height:0px;font-size:0px;"><img alt="" border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;" width="1" /></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    </td>
+                                 </tr>
+                                 <!--=== MOBILE NAVIGATION === --><!--[if !mso 9]><!-->
+                                 <tr>
+                                    <td height="0">
+                                    <div class="em_hide_desktop" style="display:none;width:0;overflow:hidden;max-height:0!important">
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" width="320">
+                                       <tbody>
+                                          <tr>
+                                             <td bgcolor="#dbdbdb" height="1" style="line-height:0px;font-size:0px;"><img alt="" border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;" width="1" /></td>
+                                          </tr>
+                                          <tr>
+                                             <td>
+                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td width="20"></td>
+                                                      <td align="left" height="48" style="font-family:'Avenir', 'Open sans', Arial, sans-serif;font-size:17px;color:#797979;font-weight:300;" valign="middle"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSTT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none;color:#555555;" target="_blank">Search Sitters</a></td>
+                                                      <td align="right" height="48" valign="middle" width="13"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSWT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="" border="0" height="13" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_search.png" style="display:block;max-width:13px;" width="13" /></a></td>
+                                                      <td width="20"></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td bgcolor="#e1e1e1" height="1" style="line-height:0px;font-size:0px;"><img alt="" border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;" width="1" /></td>
+                                          </tr>
+                                          <tr>
+                                             <td>
+                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td width="20"></td>
+                                                      <td align="left" height="48" style="font-family:'Avenir', 'Open sans', Arial, sans-serif;font-size:17px;color:#797979;font-weight:300;" valign="middle"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSAT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none;color:#555555;" target="_blank">Become a Sitter</a></td>
+                                                      <td align="right" height="48" valign="middle" width="14"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSAT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="" border="0" height="13" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_becomesitter.png" style="display:block;max-width:13px;" width="13" /></a></td>
+                                                      <td width="20"></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td bgcolor="#e1e1e1" height="1" style="line-height:0px;font-size:0px;"><img alt="" border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;" width="1" /></td>
+                                          </tr>
+                                          <tr>
+                                             <td>
+                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td width="20"></td>
+                                                      <td align="left" height="48" style="font-family:'Avenir', 'Open sans', Arial, sans-serif;font-size:17px;color:#797979;font-weight:300;" valign="middle"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none;color:#555555;" target="_blank">Give $20, Get $20</a></td>
+                                                      <td align="right" height="48" valign="middle" width="16"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYSCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="" border="0" height="14" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_give20.png" style="display:block;max-width:16px;" width="16" /></a></td>
+                                                      <td width="20"></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td bgcolor="#e1e1e1" height="1" style="line-height:0px;font-size:0px;"><img alt="" border="0" height="1" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/empty.gif" style="display:block;" width="1" /></td>
+                                          </tr>
+                                          <tr>
+                                             <td height="16" style="line-height:0px;font-size:0px;"></td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    </div>
+                                    </td>
+                                 </tr>
+                                 <!--<![endif]--><!--=== //MOBILE NAVIGATION === -->
+                              </tbody>
+                           </table>
+                           </td>
+                        </tr>
+                        <!--=== //BODY SECTION === --><!--=== FOOTER SECTION === -->
+                        <tr>
+                           <td>
+                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tbody>
+                                 <tr>
+                                    <td width="10"></td>
+                                    <td>
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                       <tbody>
+                                          <tr>
+                                             <td height="10" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td class="em_hide" height="10" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td>
+                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                <tbody>
+                                                   <tr>
+                                                      <td width="65"></td>
+                                                      <td>
+                                                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                         <tbody><!-- ONE -->
+                                                            <tr>
+                                                               <td>
+                                                               <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                  <tbody>
+                                                                     <tr>
+                                                                        <td><!-- Left -->
+                                                                        <table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" width="210">
+                                                                           <tbody>
+                                                                              <tr>
+                                                                                 <td align="center" valign="top" width="35"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYTRT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="daily treat" border="0" height="35" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_dailytreat.png" style="display:block; max-width:35px;" width="35" /></a></td>
+                                                                                 <td width="10"></td>
+                                                                                 <td align="center" valign="top" width="35"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYTTT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="facebook" border="0" height="35" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_fbook.png" style="display:block; max-width:35px;" width="35" /></a></td>
+                                                                                 <td width="10"></td>
+                                                                                 <td align="center" valign="top" width="35"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYTWT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="instagram" border="0" height="35" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_instagram.png" style="display:block; max-width:35px;" width="35" /></a></td>
+                                                                                 <td width="10"></td>
+                                                                                 <td align="center" valign="top" width="35"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYTAT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="twitter" border="0" height="35" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_twitter.png" style="display:block; max-width:35px;" width="35" /></a></td>
+                                                                                 <td width="10"></td>
+                                                                                 <td align="center" valign="top" width="35"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYTCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="pinterest" border="0" height="35" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_pinterest.png" style="display:block; max-width:35px;" width="35" /></a></td>
+                                                                              </tr>
+                                                                           </tbody>
+                                                                        </table>
+                                                                        <!-- //Left --><!-- Right -->
+
+                                                                        <table align="right" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" width="240">
+                                                                           <tbody>
+                                                                              <tr>
+                                                                                 <td align="left">
+                                                                                 <table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" width="240">
+                                                                                    <tbody>
+                                                                                       <tr>
+                                                                                          <td class="em_h16" height="0" style="line-height:0px;font-size:0px;"></td>
+                                                                                       </tr>
+                                                                                       <tr>
+                                                                                          <td align="center" width="114"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYURT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="Appstore" border="0" height="35" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/130x40_appstore.png" style="display:block; max-width:114px;" width="114" /></a></td>
+                                                                                          <td width="10"></td>
+                                                                                          <td align="center" width="114"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYURT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." target="_blank"><img alt="Appstore" border="0" height="35" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/130x40_googleplay.png" style="display:block; max-width:114px;" width="114" /></a></td>
+                                                                                       </tr>
+                                                                                    </tbody>
+                                                                                 </table>
+                                                                                 </td>
+                                                                              </tr>
+                                                                           </tbody>
+                                                                        </table>
+                                                                        <!-- //Right --></td>
+                                                                     </tr>
+                                                                  </tbody>
+                                                               </table>
+                                                               </td>
+                                                            </tr>
+                                                            <!--  //ONE -->
+                                                         </tbody>
+                                                      </table>
+                                                      </td>
+                                                      <td width="65"></td>
+                                                   </tr>
+                                                </tbody>
+                                             </table>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td height="25" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" class="em_gray2" style="color:#979797; font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:12px; line-height:20px; font-weight:600;" valign="top"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYUTT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none; color:#979797;" target="_blank">Premium Insurance</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYUWT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none; color:#979797;" target="_blank">Help Center</a><span class="em_hide">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><br class="rwd-break" />
+                                             <a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYUAT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none; color:#979797;" target="_blank">Q&A Community</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYUCT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none; color:#979797;" target="_blank">Sit a Dog, Save a Life</a></td>
+                                          </tr>
+                                          <tr>
+                                             <td height="15" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <!-- Start Legal Copy -->
+                                          <tr>
+                                             <td align="center" class="em_gray2" style="color:#979797; font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:10px; line-height:13px;" valign="top">Please add <span style="text-decoration:underline; color:#979797;">rover@e.rover.com</span> to your address book to make sure our emails are delivered to your inbox.<br />
+                                             <br />
+                                             Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google Inc.</td>
+                                          </tr>
+                                          <tr>
+                                             <td height="26" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" class="em_gray1" style="color:#979797; font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:10px; line-height:13px;" valign="top">Made with&nbsp;&nbsp;<img alt="" border="0" height="11" src="https://static.cdn.responsys.net/i2/responsysimages/rover/contentlibrary/oneoff/2018/02feb/20180214/o_valentines_day/img/ico_heart_green.png" style="max-width:12px;" width="12" />&nbsp;&nbsp;in Seattle</td>
+                                          </tr>
+                                          <tr>
+                                             <td height="4" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" class="em_gray1" style="color:#979797; font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:10px; line-height:13px;" valign="top"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYWRT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:none; color:#979797;" target="_blank">Rover</a> | 2101 4th Ave #400 | Seattle, WA 98121</td>
+                                          </tr>
+                                          <tr>
+                                             <td height="9" style="font-size:1px; line-height:1px;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" class="em_gray3" style="color:#979797; font-family: 'Avenir', 'Open sans', Arial, sans-serif; font-size:10px; line-height:13px;" valign="top"><a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYWTT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:underline;color:#979797;" target="_blank">Unsubscribe</a>&nbsp;&nbsp;&nbsp;<a href="https://e.rover.com/pub/cc?_ri_=X0Gzc2X%3DYQpglLjHJlTQGN8jJ1LUrSJf78tXJvoXfGHzgwSczgwzczbpzd1wzbzeqoke6We9mbVXtpKX%3DBYYWWT&amp;_ei_=Eq2tf9zs59idfPO1Sc_9Bbmtcm-MR1TTUZJ4u9H5Db-KClBnYPS1eo4JG9pKkqopEIuxU7kDlDm3OpMmV80_Pg." style="text-decoration:underline;color:#979797;" target="_blank">Privacy Policy</a></td>
+                                          </tr>
+                                          <!-- END Legal Copy -->
+                                       </tbody>
+                                    </table>
+                                    </td>
+                                    <td width="10"></td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           </td>
+                        </tr>
+                        <!--=== //FOOTER SECTION === -->
+                        <tr>
+                           <td height="20"></td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+         </td>
+      </tr>
+   </tbody>
+</table>
+<!--Full width table End--><!--Increase/decrease the number of (-) as per the template width-->
+
+<div style="display:none; white-space:nowrap; font:20px courier; color:#ffffff;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+<custom name="opencounter" type="tracking"> </custom></body>
+</html>
